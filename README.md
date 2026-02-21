@@ -119,7 +119,7 @@ Open your browser at `http://localhost:8888` and navigate to `notebooks/`.
 
 ---
 
-## 🚀 Running the Notebooks
+## Running the Notebooks
 
 Run notebooks in order — each is self-contained but builds on the same dataset:
 
@@ -136,7 +136,7 @@ Run notebooks in order — each is self-contained but builds on the same dataset
 10 → Synthetic Comparison      (generated in code)
 ```
 
-> ⚠️ **Note for Notebook 9:** Fetching 120 light curves from NASA MAST takes 5–15 minutes depending on internet speed. The notebook prints progress every 20 fetches.
+>  **Note for Notebook 9:** Fetching 120 light curves from NASA MAST takes 5–15 minutes depending on internet speed. The notebook prints progress every 20 fetches.
 
 ---
 
@@ -179,7 +179,7 @@ A full independent research paper is included in `paper/research_paper.docx`:
 
 ---
 
-## 📚 References
+##  References
 
 1. Shallue & Vanderburg (2018) — *Identifying Exoplanets with Deep Learning* — AJ 155(2):94
 2. Thompson et al. (2018) — *Planetary Candidates Observed by Kepler VIII* — ApJS 235(2):38
