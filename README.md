@@ -27,7 +27,7 @@ The project covers all major ML paradigms — regression, classification, cluste
 ```
 exoplanet_ml/
 ├── data/
-│   ├── koi_cumulative.csv        # NASA KOI table — 9,564 Kepler telescope signals
+│   ├── koi_cumulative.csv        # NASA KOI table — 9,564 Kepler signals
 │   └── ps_composite.csv          # NASA Planetary Systems — 6,107 confirmed planets
 ├── notebooks/
 │   ├── 01_linear_regression.ipynb
